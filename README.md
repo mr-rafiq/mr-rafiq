@@ -43,7 +43,7 @@ drawing facade details, was developed using WPF as the UI framework.
 **Computational Designer (Mini- Job)**
 ->_June 2020 to April 2021_
 
-- Working on grasshopper scripts was the initial focus; numerous logics were 
+- Worked on grasshopper scripts was the initial focus; numerous logics were 
 built to analyze point cloud data and automate the positioning of facade 
 elements from the 3D Point Cloud data ( scanned model ).
 
@@ -62,7 +62,7 @@ drawing packages, and write specifications.
 **Architectural Internship**
 ->_Jan 2015 to Jan 2016_
 
-- Working for a well-known interior design firm that specializes in high-end 
+- Worked for a well-known interior design firm that specializes in high-end 
 home projects,. 
 - When it came to the interior design and documentation of high-end residential, commercial, and private projects, my design work served as an effective marketing tool.
 - I was assisting a senior designer with some drawing needs. Creating sketches, proposals, and quotes for clients. 
@@ -141,7 +141,6 @@ Rhinoceros.
 ![Profile views](https://gpvc.arturio.dev/mr-rafiq)  
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
