@@ -25,66 +25,6 @@ analytical skills.
 
 <br />
 
-
-
-## Work Experience
-
-### HÖLSCHER GmbH
-->_Kleve, Germany_
-
-**Computational Designer (Full-Time)**
-->_May 2021- to Present_
-
-- Front-end and back-end of the plugin have been developed in Rhino 
-Environment using C# for facade drafting tools. the Franky-Rhino plugin, 
-which has similar functionality to Athena from CAD and is used for quickly 
-drawing facade details, was developed using WPF as the UI framework.
-
-**Computational Designer (Mini- Job)**
-->_June 2020 to April 2021_
-
-- Worked on grasshopper scripts was the initial focus; numerous logics were 
-built to analyze point cloud data and automate the positioning of facade 
-elements from the 3D Point Cloud data ( scanned model ).
-
-### SIDHARTH NINAN ARCHITECTURE
-->_Chennai, India_
-
-**Assistant Architect**
--> _Jan 2017 to Jan 2018_
-
-- As part of my job, I'm in charge of creating and submitting documents related 
-to planning, building regulations, tenders, and construction. 
-- I analyze and draft measured building surveys for residential additions, generate working 
-drawing packages, and write specifications. 
-- I coordinate and specify with clients, design consultants, and other professionals.
-
-**Architectural Internship**
-->_Jan 2015 to Jan 2016_
-
-- Worked for a well-known interior design firm that specializes in high-end 
-home projects,. 
-- When it came to the interior design and documentation of high-end residential, commercial, and private projects, my design work served as an effective marketing tool.
-- I was assisting a senior designer with some drawing needs. Creating sketches, proposals, and quotes for clients. 
-- Meet deadlines by using AutoCAD and other 3D programs like Sketchup and 
-Rhinoceros.
-- Proactively participated in the team's weekly meetings and conducted reports on the project's progress
-
----
-
-## Education
-
-### Technische Hochschule Ostwestfalen Lippe University
-->_2018-2021_
-**Master’s in Integrated Design - Computational Design 
-(M.E)**, _Detmold, Germany_
-
-### B. S. Abdur Rahman University 
-->_2012 - 2017_
-**Bachelor of Architecture**,  _Chennai, India_
-
-
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
