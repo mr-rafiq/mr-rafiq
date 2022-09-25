@@ -16,14 +16,17 @@ low construction costs. Throughout my career, I've worked on everything from
 front-end design and implementation to back-end software development and 
 analytical skills.
 ### Connect with me:
-
-
-[<img align="left" alt="mrafiq | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mrafiq | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mrafiq | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mrafiq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<table align="center">
+ <h2>Connect with Me!</h2>
+<tr>
+  <td align="center"><code><a href=[linkedin] target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
+  <td align="center"><code><a href=[twitter]  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td><td align="center"><code><a href=[instagram] target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
+   </tr>
+  <tr>
+  <td align="center"><code><a href=[linkedin] title="reach" target="_blank" >Linkedin</a></code></td>
+  <td align="center"><code><a href=[twitter] title="reach" target="_blank" >Twitter</a></code></td><td align="center"><code><a href=[instagram] title="reach">Instagram</a></code></td>
+  </tr>
+  </table>
 
 ### Languages and Tools:
 
