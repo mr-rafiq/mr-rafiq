@@ -15,16 +15,18 @@ in creating practical design solutions for projects with high-quality outputs an
 low construction costs. Throughout my career, I've worked on everything from 
 front-end design and implementation to back-end software development and 
 analytical skills.
-### Connect with me:
+
 <table align="center">
  <h2>Connect with Me!</h2>
 <tr>
   <td align="center"><code><a href="https://linkedin.com/in/mohamedrafiq17" target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
-  <td align="center"><code><a href=[twitter]  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td><td align="center"><code><a href=[instagram] target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
+  <td align="center"><code><a href="https://twitter.com/ar7rafiq"  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td>
+ <td align="center"><code><a href="https://www.instagram.com/rafiq_mr7" target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
    </tr>
   <tr>
-  <td align="center"><code><a href=[linkedin] title="reach" target="_blank" >Linkedin</a></code></td>
-  <td align="center"><code><a href=[twitter] title="reach" target="_blank" >Twitter</a></code></td><td align="center"><code><a href=[instagram] title="reach">Instagram</a></code></td>
+  <td align="center"><code><a href="https://linkedin.com/in/mohamedrafiq17" title="reach" target="_blank" >Linkedin</a></code></td>
+  <td align="center"><code><a href="https://twitter.com/ar7rafiq" title="reach" target="_blank" >Twitter</a></code></td>
+   <td align="center"><code><a href="https://www.instagram.com/rafiq_mr7" title="reach">Instagram</a></code></td>
   </tr>
   </table>
 
