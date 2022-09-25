@@ -86,18 +86,10 @@ analytical skills.
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-rafiq" alt="mr-rafiq" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ar7rafiq" target="blank"><img src="https://img.shields.io/twitter/follow/ar7rafiq?logo=twitter&style=for-the-badge" alt="ar7rafiq" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ar7rafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ar7rafiq" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-rafiq&show_icons=true&locale=en" alt="mr-rafiq" /></p>
 
 
 [twitter]: https://twitter.com/ar7rafiq
