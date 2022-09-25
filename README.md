@@ -19,7 +19,7 @@ analytical skills.
 <table align="center">
  <h2>Connect with Me!</h2>
 <tr>
-  <td align="center"><code><a href="[linkedin]" target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
+  <td align="center"><code><a href="https://linkedin.com/in/mohamedrafiq17" target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
   <td align="center"><code><a href=[twitter]  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td><td align="center"><code><a href=[instagram] target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
    </tr>
   <tr>
