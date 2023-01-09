@@ -94,6 +94,6 @@ analytical skills.
 
 [twitter]: https://twitter.com/ar7rafiq
 [youtube]: https://www.youtube.com/channel/UClCzX6geeyl2DDSWHAgwILg
-[instagram]: https://www.instagram.com/rafiq_mr7
+[instagram]: https://www.instagram.com/m7rafiq
 [linkedin]: https://linkedin.com/in/mohamedrafiq17
 [thesis]: https://www.youtube.com/watch?v=jr_KU318ALI
