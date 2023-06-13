@@ -3,10 +3,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ar7rafiq?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Far7rafiq&screen_name=ar7rafiq)
 
-## I'm a Multidisciplinary Designer and AI Enthusiast!!
+## I'm a Data Scientist | Developer | Architect | AI Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other designer and developers
+- 👯 I’m looking to collaborate with other designers and developers
 - ⚡ Fun fact: I love to make digital art and play football
 
 At the moment, I'm an aspirant architect with an innovative approach to 
