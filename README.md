@@ -21,7 +21,7 @@ analytical skills.
 <tr>
   <td align="center"><code><a href="https://linkedin.com/in/mohamedrafiq17" target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
   <td align="center"><code><a href="https://twitter.com/ar7rafiq"  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td>
- <td align="center"><code><a href="https://www.instagram.com/rafiq_mr7" target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
+ <td align="center"><code><a href="https://www.instagram.com/rafiq.explores" target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
    </tr>
   <tr>
   <td align="center"><code><a href="https://linkedin.com/in/mohamedrafiq17" title="reach" target="_blank" >Linkedin</a></code></td>
