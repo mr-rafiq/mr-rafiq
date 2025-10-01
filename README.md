@@ -8,7 +8,7 @@
 
 **Currently:** Software Developer at **Hoelscher GmbH** (June 2021 - Present) | **Based in:** Kleve, Germany
 
-Innovative Full Stack Developer with 3+ years of experience at Hoelscher GmbH, specializing in React.js and MSSQL-based applications with Python FastAPI backends. Expert in ERP system integrations, AI-powered automation tools, and scalable web applications that streamline business operations.
+Innovative Full Stack Developer with 4+ years of experience at Hoelscher GmbH, specializing in React.js and MSSQL-based applications with Python FastAPI backends. Expert in ERP system integrations, AI-powered automation tools, and scalable web applications that streamline business operations.
 
 ### 🎯 Key Achievements
 - **Reduced ERP project creation time from 4 days to 6 hours** with Kalkverse application
