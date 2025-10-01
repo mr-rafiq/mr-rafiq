@@ -122,7 +122,7 @@ B. S. Abdur Rahman University, India
 - 💼 **Portfolio:** [rafiq.tech](https://rafiq.tech)
 - 💌 **Email:** mohamed-rafiq@outlook.com
 - 🐦 **Twitter:** [@ar7rafiq](https://twitter.com/ar7rafiq)
-- 💼 **LinkedIn:** [mohamedrafiq04](www.linkedin.com/in/mohamedrafiq04)
+- 💼 **LinkedIn:** [mohamedrafiq04](https://linkedin.com/in/mohamedrafiq04)
 - 📷 **Instagram:** [@rafiq.explores](https://instagram.com/rafiq.explores)
 
 ---
