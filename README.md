@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Rafiq 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rafiq.tech-blue?style=for-the-badge)](https://rafiq.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedrafiq17-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamedrafiq17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedrafiq17-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mohamedrafiq04)
 [![Twitter](https://img.shields.io/badge/Twitter-ar7rafiq-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ar7rafiq)
 
 ## 🚀 Full Stack Developer | AI Innovator | ERP Integration Specialist
@@ -122,14 +122,14 @@ B. S. Abdur Rahman University, India
 - 💼 **Portfolio:** [rafiq.tech](https://rafiq.tech)
 - 💌 **Email:** mohamed-rafiq@outlook.com
 - 🐦 **Twitter:** [@ar7rafiq](https://twitter.com/ar7rafiq)
-- 💼 **LinkedIn:** [mohamedrafiq17](https://linkedin.com/in/mohamedrafiq17)
+- 💼 **LinkedIn:** [mohamedrafiq04](www.linkedin.com/in/mohamedrafiq04)
 - 📷 **Instagram:** [@rafiq.explores](https://instagram.com/rafiq.explores)
 
 ---
 
 <div align="center">
 
-**"Building innovative solutions that bridge the gap between architecture and technology"**
+**"Technology is the answer but what was the question - Cedric Price"**
 
 ![Visitors](https://komarev.com/ghpvc/?username=mr-rafiq&color=blueviolet&style=for-the-badge)
 
