@@ -1,92 +1,136 @@
-### Hi there, I'm Mohamed Rafiq 👋 
+# Hi there, I'm Mohamed Rafiq 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafiq.tech-blue?style=for-the-badge)](https://rafiq.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedrafiq17-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamedrafiq17)
+[![Twitter](https://img.shields.io/badge/Twitter-ar7rafiq-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ar7rafiq)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ar7rafiq?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Far7rafiq&screen_name=ar7rafiq)
+## 🚀 Full Stack Developer | AI Innovator | ERP Integration Specialist
 
-## I'm a Data Scientist | Developer | Architect | AI Enthusiast!!
+**Currently:** Software Developer at **Hoelscher GmbH** (June 2021 - Present) | **Based in:** Kleve, Germany
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other designers and developers
-- ⚡ Fun fact: I love to make digital art and play football
+Innovative Full Stack Developer with 3+ years of experience at Hoelscher GmbH, specializing in React.js and MSSQL-based applications with Python FastAPI backends. Expert in ERP system integrations, AI-powered automation tools, and scalable web applications that streamline business operations.
 
-At the moment, I'm an aspirant architect with an innovative approach to 
-architecture that makes use of today's cutting-edge technology and specializes 
-in creating practical design solutions for projects with high-quality outputs and 
-low construction costs. Throughout my career, I've worked on everything from 
-front-end design and implementation to back-end software development and 
-analytical skills.
-
-<table align="center">
- <h2>Connect with Me!</h2>
-<tr>
-  <td align="center"><code><a href="https://linkedin.com/in/mohamedrafiq17" target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a></code></td>
-  <td align="center"><code><a href="https://twitter.com/ar7rafiq"  target="_blank" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a></code></td>
- <td align="center"><code><a href="https://www.instagram.com/rafiq.explores" target="_blank" ><img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='twitter' height='40'></a></code></td>
-   </tr>
-  <tr>
-  <td align="center"><code><a href="https://linkedin.com/in/mohamedrafiq17" title="reach" target="_blank" >Linkedin</a></code></td>
-  <td align="center"><code><a href="https://twitter.com/ar7rafiq" title="reach" target="_blank" >Twitter</a></code></td>
-   <td align="center"><code><a href="https://www.instagram.com/rafiq_mr7" title="reach">Instagram</a></code></td>
-  </tr>
-  </table>
-
-### Languages and Tools:
-
-[<img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img  alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img  alt="C#" width="26px" src="https://user-images.githubusercontent.com/88309433/151249748-ace6a046-752a-4dcc-a8f0-9fdfb3c410f9.svg" />]
-[<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img  alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img  alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img  alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-<br />
-<br />
+### 🎯 Key Achievements
+- **Reduced ERP project creation time from 4 days to 6 hours** with Kalkverse application
+- **Pioneered AI RAG-based document reading tools** using OpenAI API
+- **Led cross-functional teams** and mentored junior developers
+- **Developed AI applications** for architectural drawing analysis with 95%+ accuracy
 
 ---
 
-### 📺 Research Project Videos
+## 💼 Featured Projects
 
-<!-- YOUTUBE:START -->
-![How AI can learn to influence human behaviour?](https://user-images.githubusercontent.com/88309433/151249323-4f2201f0-7a54-422d-ba1f-6d5550ca8543.gif)
-- [How AI can learn to influence human behaviour?](https://www.youtube.com/watch?v=jr_KU318ALI)
-<!-- YOUTUBE:END -->
+### 🏗️ **Kalkverse Application**
+> **Project Management & ERP Integration Platform**
 
+Enhanced facade project management with automated cost, budget, and timeline calculations based on tender documents.
+
+**Impact:** Reduced project creation time by 85% (4 days → 6 hours)  
+**Tech Stack:** Python FastAPI, React.js, TailwindCSS, SQLAlchemy, AG-Grid
+
+### 💻 **HIT Application** 
+> **IT Asset Management System**
+
+Led development from MVP to full operational status in 1 month, improving IT asset management accuracy and accessibility company-wide.
+
+**Role:** Project Lead (Team of 2)  
+**Tech Stack:** React.js, Flask, MSSQL, SQLAlchemy ORM, TailwindCSS
+
+### 📊 **Manageverse Application**
+> **Windows ERP Enhancement Tool**
+
+Year-long development of a Windows application enhancing ERPlus system for project timeline and cost calculation management.
+
+**Role:** Team Lead (Team of 3)  
+**Tech Stack:** C# WPF, Dapper ORM, MSSQL
+
+### 🤖 **AI Plugin for Rhino**
+> **Automated Part Identification Tool**
+
+Developed MVP in 2 months in collaboration with Ostbayerische Technische Hochschule Regensburg University. Automates part identification from architectural drawings.
+
+**Impact:** Significantly reduced manual effort in design workflows  
+**Tech Stack:** Python, C#, YOLO v5
 
 ---
 
+## 🛠️ Technical Expertise
 
-### GitHub Stats
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-rafiq&theme=radical)
+### **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+### **Databases & Cloud**
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### **AI & Machine Learning**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**Master's in Computational Design (M.E.)** - *2018-2021*  
+Technische Hochschule Ostwestfalen Lippe, Germany
+
+**Bachelor of Architecture** - *2012-2017*  
+B. S. Abdur Rahman University, India
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rafiq&layout=compact)
-  
-<p align="left"> <a href="https://twitter.com/ar7rafiq" target="blank"><img src="https://img.shields.io/twitter/follow/ar7rafiq?logo=twitter&style=for-the-badge" alt="ar7rafiq" /></a> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-rafiq&theme=radical&show_icons=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rafiq&layout=compact&theme=radical)
 
+</div>
 
-[twitter]: https://twitter.com/ar7rafiq
-[youtube]: https://www.youtube.com/channel/UClCzX6geeyl2DDSWHAgwILg
-[instagram]: https://www.instagram.com/m7rafiq
-[linkedin]: https://linkedin.com/in/mohamedrafiq17
-[thesis]: https://www.youtube.com/watch?v=jr_KU318ALI
+---
+
+## 🌱 Currently Exploring
+- **Advanced AI/ML Integration** in web applications
+- **Microservices Architecture** with containerization
+- **Real-time Data Processing** for ERP systems
+- **Cloud-native Development** patterns
+
+## 📫 Let's Connect!
+
+- 💼 **Portfolio:** [rafiq.tech](https://rafiq.tech)
+- 💌 **Email:** mohamed-rafiq@outlook.com
+- 🐦 **Twitter:** [@ar7rafiq](https://twitter.com/ar7rafiq)
+- 💼 **LinkedIn:** [mohamedrafiq17](https://linkedin.com/in/mohamedrafiq17)
+- 📷 **Instagram:** [@rafiq.explores](https://instagram.com/rafiq.explores)
+
+---
+
+<div align="center">
+
+**"Building innovative solutions that bridge the gap between architecture and technology"**
+
+![Visitors](https://komarev.com/ghpvc/?username=mr-rafiq&color=blueviolet&style=for-the-badge)
+
+</div>
