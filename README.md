@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Rafiq 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rafiq.tech-blue?style=for-the-badge)](https://rafiq.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedrafiq04-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mohamedrafiq04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedrafiq04-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamedrafiq04)
 [![Twitter](https://img.shields.io/badge/Twitter-ar7rafiq-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ar7rafiq)
 
 ## 🚀 Full Stack Developer | AI Innovator | ERP Integration Specialist
