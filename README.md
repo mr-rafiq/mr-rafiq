@@ -1,136 +1,88 @@
-# Hi there, I'm Mohamed Rafiq 👋
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rafiq.tech-blue?style=for-the-badge)](https://rafiq.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedrafiq04-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamedrafiq04)
-[![Twitter](https://img.shields.io/badge/Twitter-ar7rafiq-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ar7rafiq)
-
-## 🚀 Full Stack Developer | AI Innovator | ERP Integration Specialist
-
-**Currently:** Software Developer at **Hoelscher GmbH** (June 2021 - Present) | **Based in:** Kleve, Germany
-
-Innovative Full Stack Developer with 4+ years of experience at Hoelscher GmbH, specializing in React.js and MSSQL-based applications with Python FastAPI backends. Expert in ERP system integrations, AI-powered automation tools, and scalable web applications that streamline business operations.
-
-### 🎯 Key Achievements
-- **Reduced ERP project creation time from 4 days to 6 hours** with Kalkverse application
-- **Pioneered AI RAG-based document reading tools** using OpenAI API
-- **Led cross-functional teams** and mentored junior developers
-- **Developed AI applications** for architectural drawing analysis with 95%+ accuracy
-
----
-
-## 💼 Featured Projects
-
-### 🏗️ **Kalkverse Application**
-> **Project Management & ERP Integration Platform**
-
-Enhanced facade project management with automated cost, budget, and timeline calculations based on tender documents.
-
-**Impact:** Reduced project creation time by 85% (4 days → 6 hours)  
-**Tech Stack:** Python FastAPI, React.js, TailwindCSS, SQLAlchemy, AG-Grid
-
-### 💻 **HIT Application** 
-> **IT Asset Management System**
-
-Led development from MVP to full operational status in 1 month, improving IT asset management accuracy and accessibility company-wide.
-
-**Role:** Project Lead (Team of 2)  
-**Tech Stack:** React.js, Flask, MSSQL, SQLAlchemy ORM, TailwindCSS
-
-### 📊 **Manageverse Application**
-> **Windows ERP Enhancement Tool**
-
-Year-long development of a Windows application enhancing ERPlus system for project timeline and cost calculation management.
-
-**Role:** Team Lead (Team of 3)  
-**Tech Stack:** C# WPF, Dapper ORM, MSSQL
-
-### 🤖 **AI Plugin for Rhino**
-> **Automated Part Identification Tool**
-
-Developed MVP in 2 months in collaboration with Ostbayerische Technische Hochschule Regensburg University. Automates part identification from architectural drawings.
-
-**Impact:** Significantly reduced manual effort in design workflows  
-**Tech Stack:** Python, C#, YOLO v5
-
----
-
-## 🛠️ Technical Expertise
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### **Databases & Cloud**
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 🎓 Education
-
-**Master's in Computational Design (M.E.)** - *2018-2021*  
-Technische Hochschule Ostwestfalen Lippe, Germany
-
-**Bachelor of Architecture** - *2012-2017*  
-B. S. Abdur Rahman University, India
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-rafiq&theme=radical&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rafiq&layout=compact&theme=radical)
+<img src="./assets/hero.svg" width="900" alt="Mohamed Rafiq — Full-stack development, AI, and computational design. Based in Germany." />
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafiq.tech-101b29?style=for-the-badge&logo=googlechrome&logoColor=55e6c1)](https://www.rafiq.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedrafiq04-101b29?style=for-the-badge&logo=linkedin&logoColor=55e6c1)](https://linkedin.com/in/mohamedrafiq04) [![Email](https://img.shields.io/badge/Email-Let%27s_talk-101b29?style=for-the-badge&logo=maildotru&logoColor=55e6c1)](mailto:mohamed-rafiq@outlook.com)
+
+### <code>rafiq@github ~ $ ./contributions.sh</code>
+
+<img src="./assets/contributions.svg" width="900" alt="mr-rafiq's real GitHub contribution calendar for the trailing 365 days, refreshed daily." />
+
+### <code>rafiq@github ~ $ whoami</code>
+
+<table>
+<tr>
+<td width="50%" valign="top"><img src="./assets/identity.svg" width="440" alt="Mohamed Rafiq — MR terminal monogram. Full-stack AI developer, computational design graduate, and digital nomad in Germany." /></td>
+<td width="50%" valign="top"><img src="./assets/stats.svg" width="440" alt="mr-rafiq's public GitHub statistics: repositories, followers, contributions, active days, and streaks. The card shows its refresh date." /></td>
+</tr>
+</table>
+
+**I build AI tools, full-stack products, and software for design and business workflows.**
+
+My work connects Python and React applications, ERP integrations, document intelligence, and computational design. I also explore local AI and native macOS productivity tools.
 
 </div>
 
----
+### <code>rafiq@github ~ $ ls featured/</code>
 
-## 🌱 Currently Exploring
-- **Advanced AI/ML Integration** in web applications
-- **Microservices Architecture** with containerization
-- **Real-time Data Processing** for ERP systems
-- **Cloud-native Development** patterns
+| Project | What I'm building | Stack / focus |
+| :--- | :--- | :--- |
+| [**Inai · இணை**](https://github.com/mr-rafiq/inai) | A local-first personal AI with graph memory. The text-based foundation is complete; voice and generative UI are on the roadmap. | TypeScript · React · Python · local AI |
+| [**TextSnipper**](https://github.com/mr-rafiq/textsnipper) | A native macOS menu bar app for offline OCR, QR capture, and clipboard history. | Swift · SwiftUI · Apple Vision |
+| [**Machine Learning Roadmap**](https://github.com/mr-rafiq/Machine_Learning_RoadMap) | My roadmap for learning machine learning. | Python · Jupyter · ML |
+| [**NLP Projects**](https://github.com/mr-rafiq/NLP-Projects) | NLP projects developed along my learning path. | Natural language processing |
 
-## 📫 Let's Connect!
+### <code>rafiq@github ~ $ cat stack.txt</code>
 
-- 💼 **Portfolio:** [rafiq.tech](https://rafiq.tech)
-- 💌 **Email:** mohamed-rafiq@outlook.com
-- 🐦 **Twitter:** [@ar7rafiq](https://twitter.com/ar7rafiq)
-- 💼 **LinkedIn:** [mohamedrafiq04](https://linkedin.com/in/mohamedrafiq04)
-- 📷 **Instagram:** [@rafiq.explores](https://instagram.com/rafiq.explores)
+| Area | Tools I work with |
+| :--- | :--- |
+| **Frontend** | React · Next.js · JavaScript · TypeScript · Tailwind CSS · AG Grid |
+| **Backend & desktop** | Python · FastAPI · Flask · Django · C# · WPF · Swift |
+| **Data & cloud** | SQL Server · SQLAlchemy · Dapper · MongoDB · AWS · Azure |
+| **AI & computer vision** | OpenAI API · RAG · PyTorch · TensorFlow · OpenCV · YOLO |
+| **Delivery** | Docker · Git · Jenkins · NGINX |
 
----
+### <code>rafiq@github ~ $ cat experience.md</code>
+
+**Software development at Hoelscher GmbH · Kleve, Germany**
+
+Professional work across ERP integration, project management, IT asset management, and architectural drawing analysis, including leading small teams and mentoring developers.
+
+<details>
+<summary><b>Explore my professional projects and background</b></summary>
+
+<br />
+
+| Project | Work & impact | Technology |
+| :--- | :--- | :--- |
+| **Kalkverse** | Facade project management with automated cost, budget, and timeline calculations from tender documents. Reduced ERP project creation from **4 days to 6 hours**. | FastAPI · React · Tailwind CSS · SQLAlchemy · AG Grid |
+| **HIT** | Led a two-person team from MVP to an operational IT asset management application in **one month**. | React · Flask · SQL Server · SQLAlchemy |
+| **Manageverse** | Led a three-person team building a Windows application to enhance ERPlus project timelines and cost calculations. | C# · WPF · Dapper · SQL Server |
+| **AI Plugin for Rhino** | Built a part-identification MVP in two months with Ostbayerische Technische Hochschule Regensburg, applying computer vision to architectural drawings. | Python · C# · YOLO v5 |
+
+Additional work includes **RAG document-reading tools using the OpenAI API**, cross-functional collaboration, and developer mentoring.
+
+**Education**
+
+- **Master's in Computational Design (M.E.)** · Technische Hochschule Ostwestfalen-Lippe, Germany · 2018–2021
+- **Bachelor of Architecture** · B. S. Abdur Rahman University, India · 2012–2017
+
+</details>
+
+### <code>rafiq@github ~ $ cat next.txt</code>
+
+Local-first AI · AI/ML in web applications · Microservices · Real-time ERP data · Cloud-native development
 
 <div align="center">
 
-**"Technology is the answer but what was the question - Cedric Price"**
+### <code>rafiq@github ~ $ ./connect.sh</code>
 
-![Visitors](https://komarev.com/ghpvc/?username=mr-rafiq&color=blueviolet&style=for-the-badge)
+[Portfolio](https://www.rafiq.tech) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/mohamedrafiq04) &nbsp; / &nbsp; [Email](mailto:mohamed-rafiq@outlook.com) &nbsp; / &nbsp; [X · @ar7rafiq](https://twitter.com/ar7rafiq) &nbsp; / &nbsp; [Instagram · @rafiq.explores](https://instagram.com/rafiq.explores)
+
+<br />
+
+<sub>“Technology is the answer but what was the question” — Cedric Price</sub>
 
 </div>
