@@ -4,7 +4,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rafiq.tech-101b29?style=for-the-badge&logo=googlechrome&logoColor=55e6c1)](https://www.rafiq.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedrafiq04-101b29?style=for-the-badge&logo=linkedin&logoColor=55e6c1)](https://linkedin.com/in/mohamedrafiq04) [![Email](https://img.shields.io/badge/Email-Let%27s_talk-101b29?style=for-the-badge&logo=maildotru&logoColor=55e6c1)](mailto:mohamed-rafiq@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafiq.tech-101b29?style=for-the-badge&logo=googlechrome&logoColor=55e6c1)](https://www.rafiq.tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafiqmohamd-101b29?style=for-the-badge&logo=linkedin&logoColor=55e6c1)](https://www.linkedin.com/in/rafiqmohamd) [![Email](https://img.shields.io/badge/Email-Let%27s_talk-101b29?style=for-the-badge&logo=maildotru&logoColor=55e6c1)](mailto:mohamed-rafiq@outlook.com)
 
 ### <code>rafiq@github ~ $ ./contributions.sh</code>
 
@@ -79,7 +79,7 @@ Local-first AI · AI/ML in web applications · Microservices · Real-time ERP da
 
 ### <code>rafiq@github ~ $ ./connect.sh</code>
 
-[Portfolio](https://www.rafiq.tech) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/mohamedrafiq04) &nbsp; / &nbsp; [Email](mailto:mohamed-rafiq@outlook.com) &nbsp; / &nbsp; [X · @ar7rafiq](https://twitter.com/ar7rafiq) &nbsp; / &nbsp; [Instagram · @rafiq.explores](https://instagram.com/rafiq.explores)
+[Portfolio](https://www.rafiq.tech) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/rafiqmohamd) &nbsp; / &nbsp; [Email](mailto:mohamed-rafiq@outlook.com) &nbsp; / &nbsp; [X · @ar7rafiq](https://twitter.com/ar7rafiq) &nbsp; / &nbsp; [Instagram · @rafiq.explores](https://instagram.com/rafiq.explores)
 
 <br />
 
