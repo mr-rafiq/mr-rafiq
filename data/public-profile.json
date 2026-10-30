@@ -1,21 +1,16 @@
 {
   "username": "mr-rafiq",
-  "as_of": "2026-10-29",
-  "window_start": "2025-10-30",
+  "as_of": "2026-10-30",
+  "window_start": "2025-10-31",
   "public_repositories": 33,
   "original_public_repositories": 14,
   "stars_on_original_public_repositories": 9,
   "followers": 14,
-  "contributions": 1880,
+  "contributions": 1965,
   "active_days": 175,
-  "current_streak_days": 4,
+  "current_streak_days": 5,
   "longest_streak_days": 11,
   "days": [
-    {
-      "date": "2025-10-30",
-      "level": 2,
-      "count": 4
-    },
     {
       "date": "2025-10-31",
       "level": 2,
@@ -1828,13 +1823,18 @@
     },
     {
       "date": "2026-10-28",
-      "level": 1,
-      "count": 5
+      "level": 2,
+      "count": 28
     },
     {
       "date": "2026-10-29",
+      "level": 4,
+      "count": 64
+    },
+    {
+      "date": "2026-10-30",
       "level": 1,
-      "count": 8
+      "count": 10
     }
   ],
   "sources": [
